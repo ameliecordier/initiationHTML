@@ -6,12 +6,9 @@ Initiation to HTML5 and CSS
 
 Version: |version|
              
-.. warning:: Attention, cette activité est encore en cours de développement !
 
-
-
-Table des matières
-==================
+Table of contents
+=================
 
 .. toctree::
    :maxdepth: 3
@@ -22,7 +19,10 @@ Table des matières
    
 * :ref:`genindex`
    
-Remerciements
-=============
+Credits
+=======
+
+Thank you to MixTeen for comments and improvements on this activity!
+
 
 
