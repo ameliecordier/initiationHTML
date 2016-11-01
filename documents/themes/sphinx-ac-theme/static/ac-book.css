@@ -1,5 +1,3 @@
-/* @import url("nature.css"); */
-
 @import url("ac-common.css");
 
 /* list-table used to layout 2 columns */
@@ -91,17 +89,5 @@ p.graphviz > img {
         counter-increment: section-lvl3;
         content: "Chapitre " counter(section-lvl3) " : ";
     }
-    .sab-printable h4 {
-        counter-reset: section-lvl5;
-    }
-    .sab-printable h4:before {
-        counter-increment: section-lvl4;
-        content: counter(section-lvl3) "." counter(section-lvl4) ". ";
-    }
-    .sab-printable h5:before {
-        counter-increment: section-lvl5;
-        content: counter(section-lvl3) "."
-                 counter(section-lvl4) "."
-                 counter(section-lvl5)". ";
-    }
+    .sab-printable h4 {    }
 }
