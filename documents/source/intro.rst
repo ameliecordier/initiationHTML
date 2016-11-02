@@ -31,12 +31,14 @@ The first web page?
 ===================
 
 .. figure:: _static/firstwebpage.png
-    :width: 80%
+    :width: 100%
     :align: center
     :alt: The first web page!
     :figclass: align-center
 
+      
 Want to learn more about it?
+
 http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
