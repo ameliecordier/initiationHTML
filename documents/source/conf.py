@@ -112,7 +112,7 @@ html_theme = 'bootstrap'
 html_theme_options = {
 
     'navbar_title': "Initiation to HTML and CSS",
-    'bootswatch_theme': "flatly",
+    'bootswatch_theme': "flatly"
 #    'bootswatch_theme': "paper",
 #    'bootswatch_theme': "lumen",
 }
@@ -196,18 +196,9 @@ slide_levels = 3
 slide_numbers = True
 
 slide_theme_options = {'custom_css': '../_static/ac-slides.css'}
+slide_theme = 'single-level'
 
-slide_link_html_to_slides = True
-slide_link_html_sections_to_slides = True
-slide_link_to_html = True
-
-## the following are not the default values, but are consistent with Makefile
-slide_relative_path = "slides"
-slide_html_relative_path = ".."
-
-highlight_language = "html"
-
-# -- Options for Blockdiag --------------------------------------------
+#--------------------------------------
 
 # not usable for the moment: unicode problem
 
