@@ -13,6 +13,9 @@ How to use the activity?
 
 Compiling the source files requires Sphinx__ and Hieroglyph__.
 The Makefile is self explanatory.
+This is required to have the teacher activity materials.
+
+Exercices are directly available in the ``exercices`` folder. 
 
 http://sphinx-doc.org/
 http://hieroglyph.io/
