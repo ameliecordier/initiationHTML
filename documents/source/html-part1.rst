@@ -1,4 +1,4 @@
-.. include:: ../commondefs.rst
+.. include:: commondefs.rst
 
 ==========================
 Part 1 - Elements and tags

@@ -1,4 +1,4 @@
-.. include:: ../commondefs.rst
+.. include:: commondefs.rst
 
 ===========================
 Part 2 - More HTML elements

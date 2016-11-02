@@ -110,12 +110,14 @@ html_theme = 'bootstrap'
 # documentation.
 
 html_theme_options = {
-
     'navbar_title': "Initiation to HTML and CSS",
-    'bootswatch_theme': "flatly"
+    'bootswatch_theme': "flatly",
 #    'bootswatch_theme': "paper",
 #    'bootswatch_theme': "lumen",
+    'navbar_sidebarrel': True
 }
+
+
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = ["../themes"]
@@ -197,6 +199,16 @@ slide_numbers = True
 
 slide_theme_options = {'custom_css': '../_static/ac-slides.css'}
 slide_theme = 'single-level'
+
+slide_link_html_to_slides = True
+slide_link_html_sections_to_slides = True
+slide_link_to_html = True
+
+## the following are not the default values, but are consistent with Makefile
+slide_relative_path = "slides"
+slide_html_relative_path = ".."
+
+highlight_language = "html"
 
 #--------------------------------------
 

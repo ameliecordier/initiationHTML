@@ -14,8 +14,8 @@ Table of contents
    :maxdepth: 3
 
    intro
-   html/index
-   css/index
+   html
+   css
    practical-work
    
 * :ref:`genindex`
