@@ -11,7 +11,7 @@ http://www.blendwebmix.com/
 How to use the activity?
 ========================
 
-Compiling the source files requires Sphinx__ and Hieroglyph__.
+Compiling the source files requires Sphinx_ and Hieroglyph_.
 The Makefile is self explanatory.
 This is required to have the teacher activity materials.
 
