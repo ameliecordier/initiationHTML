@@ -48,7 +48,7 @@ We have already seen the :html:`h1` element to define a title (headings).
 
 You can have several levels of headings in your document: use :html:`h2` for second level, :html:`h3` for third level and so on.
 
-Open :filename:`page3.html` and edit the document to include headings.
+Open :filename:`page2.html` and edit the document to include headings.
 
 - "What will I learn today?" should be a level 1 headings.
 - "About the web", "About HTML", and "About CSS" should be level 2 headings.
@@ -121,7 +121,7 @@ Unordered list
 Make your own lists
 ===================
 
-Open :filename:`page3.html` and use the elements you've just discovered to add lists.
+Open :filename:`page2.html` and use the elements you've just discovered to add lists.
 
 The text is already written for you.
 

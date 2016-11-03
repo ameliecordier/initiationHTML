@@ -99,7 +99,7 @@ Step 6 - Image (1/3)
 
 It's time to add an image in your page.
 
-The element for including an image is **em** and the corresponding tag is :html:`<img>`.
+The element for including an image is **img** and the corresponding tag is :html:`<img>`.
 
 Here is an example:
 
@@ -141,8 +141,8 @@ Using the :html:`img` tag you have just learned, include in :filename:`page1.htm
 Be careful, as the photo is in the :filename:`images` directory, and because it is named "Sir_Tim_Berners_Lee.jpg", the ``alt`` attribute should be: ``alt="images/Sir_Tim_Berners_Lee.jpg``.
 
 
-Step 7 - Links
-==============
+Step 7 - Links (1/3)
+====================
    
 HyperText is all about links... so let's make **links**.
 
@@ -159,8 +159,8 @@ Like the :html:`img` tag, the :html:`a` tag has an attribute: ``href``.
 
 Like most of the other tags, the :html:`a` element has a start and a end tag.
 
-Step 7 - Links
-==============
+Step 7 - Links (2/3)
+====================
 
 Using the tag you've just learned (see below), add a link around the address at the bottom of the page.
 
@@ -172,8 +172,8 @@ Using the tag you've just learned (see below), add a link around the address at 
 Try it in your browser! 
 
 
-Step 7 - Internal links
-=======================
+Step 7 - Internal links (3/3)
+=============================
 
 Making internal links is like making external links.
 
