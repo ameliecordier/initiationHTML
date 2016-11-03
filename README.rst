@@ -17,8 +17,11 @@ This is required to have the teacher activity materials.
 
 Exercices are directly available in the ``exercices`` folder. 
 
-http://sphinx-doc.org/
-http://hieroglyph.io/
+
+.. _Sphinx: http://sphinx-doc.org/
+.. _Hieroglyph: http://hieroglyph.io/
+
+
 
 Contribute
 ==========
