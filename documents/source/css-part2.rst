@@ -20,22 +20,22 @@ Styling the text
 
 .. code-block:: css
 
-   text-align: center;
-   text-decoration: none;
-   text-transform: uppercase;
-   font-style: normal;
-   font-style: italic;
-   font-style: oblique;
+   text-align: center; (or left, right, ...)
+   text-decoration: none; (or underline, overline, ...)
+   text-transform: uppercase; (or lowercase, smallcaps, ...)
+   font-style: normal; (or italic, oblique, ...)
 
 
-Changing the backgroung
+
+Changing the background
 =======================
 
 .. code-block:: css
 
-   background-color: lightblue;
-   background-image: url("paper.gif");
+   background-color: blue; 
+   background-image: url("picture.png");
 
+                
 Lists
 =====
 
@@ -53,16 +53,11 @@ Borders
 
 .. code-block:: css
    
-   border-style: solid;
-   border-width: 5px;
-   border-style: solid;
-   border-width: medium;
-   border-style: solid;
-   border-width: 2px 10px 4px 20px;
+   border-style: solid; (or dotted, ...)
    border-top-style: dotted;
-   border-right-style: solid;
-   border-bottom-style: dotted;
-   border-left-style: solid;
-   border: 2px solid red;
+   border-width: 5px; (or medium, ...)
+   border-width: 2px 10px 4px 20px;
+   border-color: red;
    border-radius: 5px;
+                
 
