@@ -138,7 +138,7 @@ Step 6 - Image (3/3)
 
 Using the :html:`img` tag you have just learned, include in :filename:`page1.html` a photo of *Sir Tim Berners Lee*. You will find and image in the directory named :filename:`images`.
 
-Be careful, as the photo is in the :filename:`images` directory, and because it is named "Sir_Tim_Berners_Lee.jpg", the ``alt`` attribute should be: ``alt="images/Sir_Tim_Berners_Lee.jpg``.
+Be careful, as the photo is in the :filename:`images` directory, and because it is named "Sir_Tim_Berners-Lee.jpg", the ``src`` attribute should be: ``src="images/Sir_Tim_Berners-Lee.jpg``.
 
 
 Step 7 - Links (1/3)
